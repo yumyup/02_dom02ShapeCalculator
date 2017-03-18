@@ -2,9 +2,6 @@ package app;
 
 import model.ShapeCalculator;
 
-/**
- * Created by Helmut on 2017-03-18.
- */
 public class CalculatorTest {
     public static void main(String[] args) {
         ShapeCalculator shapeCalculator = new ShapeCalculator();
